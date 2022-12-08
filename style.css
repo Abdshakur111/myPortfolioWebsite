@@ -2,5 +2,19 @@ body {
     font-size: 15pt;
 }
 a{
-   color: coral;
+   color: blue;
+}
+navbar-inner{
+   background: transparent;
+}
+.goals{
+   background-color: navy;
+   color: white;
+   text-align: center;
+   border-color: blanchedalmond;
+   border-radius: 50px;
+   padding: 20px;
+}
+.intro{
+   text-align: center;
 }
